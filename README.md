@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-your-heavy-breath/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Missing Your Heavy Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-your-heavy-breath/) |
+| **Get License** | [License this song: Missing Your Heavy Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-your-heavy-breath/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight shadows dance across the room
+> I breathe the memory of your sweet perfume
+> My hands are reaching across the empty bed
+> I wake up missing your heavy breath
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
