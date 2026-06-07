@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Missing Your Heavy Breath
+
+This log tracks the cryptographic history and versioning for the song **Missing Your Heavy Breath** (missing-your-heavy-breath).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T11:55:05.200107 | `v1` | `bf2c1eb6f53433f5125241aaa2ed4311177ad6f49e55774378da5563f042a595` | `c236b88227cb8809970829efa597d4893a071cb7ac6c3b867db6b44859904654` | `2026-06-07_missing-your-heavy-breath-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
